@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body{
   font-family: "Roboto", sans-serif;
+   font-family: "Roboto", sans-serif;
+  background-image: url(/src/assets/Image.jpeg);
+  background-position: cover;
+  background-size: cover;
+}
 }
