@@ -2,8 +2,7 @@
 body{
   font-family: "Roboto", sans-serif;
    font-family: "Roboto", sans-serif;
-  background-image: url(/public/assets/Image.jpeg);
+  background-image: url(/public/Image.jpeg);
   background-position: cover;
   background-size: cover;
 }
-
